@@ -1,4 +1,7 @@
-# wod_day4
+# myalgorithm-wod-day4
+An answer of 9th algorithm challenge made by Wan Muzaffar @wanmuz86
+
+Question:
 
 1)Fork this project. 2)Write the solution in your fav editor 3)Push the answer to your Github
 
@@ -18,5 +21,7 @@ Convert and print the given time in -hour format, where .
 Sample Input = Sample Output
 
 07:05:45PM = 19:05:45
+
 12:05:45AM = 00:05:45
+
 12:05:45PM = 12:05:45
